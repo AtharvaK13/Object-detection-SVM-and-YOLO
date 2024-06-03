@@ -8,7 +8,7 @@ done using 2 different machine learning algorithms; SVM and YOLO algorithm.
 The primary objective is to compare the inference times of YOLO and SVM for multiclass object detection.
 
 ## Dataset
-The dataset that was used for this project was the ‘Self-driving cars’ dataset on [Kaggle](https://www.kaggle.com/datasets/alincijov/self-driving-cars?resource=download). 
+The dataset that was used for this project was the [‘Self-driving cars’](https://www.kaggle.com/datasets/alincijov/self-driving-cars?resource=download) dataset on Kaggle.
 This dataset contains 22,241 images, divided into train and test splits. The images contain
 multiple objects from the given 5 classes.
 
