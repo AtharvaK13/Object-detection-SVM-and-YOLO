@@ -1,12 +1,5 @@
 # Multiclass Object detection in Images
 
-Brief description of what the project does and who it's for.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Report](#report)
-- [Code Files](#code-files)
 
 ## Introduction
 The objective of this project is to detect 5 different classes in a given image. These
